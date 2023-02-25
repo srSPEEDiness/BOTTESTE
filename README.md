@@ -18,7 +18,7 @@ Só joga na máquina e deixar instalar
 
 • instala recursos e o script
 
-# SOLICITE KEY: 
+# SUPORTE: 
 
 [![Join Telegram Chat](https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=Telegram)](https://t.me/srSPEEDiness)
 
